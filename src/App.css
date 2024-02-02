@@ -1,0 +1,50 @@
+
+.agecal
+{
+  text-align: center;
+  margin: auto;
+  background-color: black;
+  padding: 20px 0px;
+  width: 390px;
+}
+
+.agecal h1
+{
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 35px;
+  font-family: lucida sans;
+  color: white;
+}
+.agecal .age
+{
+  /* margin: 10px; */
+  margin-bottom: 10px;
+  width: 300px;
+  height: 20px;
+  font-family: lucida sans;
+  border: 1px solid green;
+  color: white; 
+  background-color: black;
+  padding: 10px;
+}
+.subbtn input
+{
+  margin: 10px;
+  width: 320px;
+  font-family: lucida sans;
+  border: 1px solid transparent;
+  color: white;
+  font-size: 16px; 
+  background-color: green;
+  padding: 10px;
+}
+.agecal_1 p
+{
+  color: white;
+  padding: 5px 10px;
+  margin: 10px 40px;
+  text-align: left;
+  border: 1px solid green;
+  font-family: lucida sans;
+}
